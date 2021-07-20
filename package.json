@@ -1,0 +1,25 @@
+{
+  "name": "react-employee-directory",
+  "version": "1.0.0",
+  "description": "\"The goal of this assignment was to create an employee directory with React. \"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/go-yasi/React-Employee-Directory.git"
+  },
+  "author": "Yasi Moshtael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/go-yasi/React-Employee-Directory/issues"
+  },
+  "homepage": "https://github.com/go-yasi/React-Employee-Directory#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^5.2.0"
+  }
+}
